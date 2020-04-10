@@ -16,8 +16,8 @@ We have adapted [Standford University's guidelines](https://uit.stanford.edu/ser
 
 A list of the default settings we enforce are as follows:
 - MUTE ALL PARTICIPANTS UPON ENTRY - **enable**
-- SCREEN SHARING - set to **host only**
-- WAITING ROOM - set to **all participants**
+- SCREEN SHARING - **enable** and set to **host only**
+- WAITING ROOM - **enable** and set to **all participants**
 
 ### Teachers Checklist and Training
 
